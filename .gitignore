@@ -1,0 +1,16 @@
+# Entorno y Secretos
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Caché intermedio de procesamiento del script
+output_cache/
+
+# Archivos temporales de Windows o del script
+temp_gemini_upload.pdf
+
+# Herramientas de IDE
+.vscode/
+.idea/
