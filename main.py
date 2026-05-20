@@ -14,12 +14,18 @@ logger = logging.getLogger(__name__)
 # Cargar variables de entorno
 load_dotenv()
 
+# --- CONFIGURACIÓN PRINCIPAL ---
+ASIGNATURA_ACTUAL = "HISTORIA, GEOGRAFÍA Y CIENCIAS SOCIALES"  # Cambiar aquí para procesar otra asignatura
+# -------------------------------
+
 # Directorios y rutas
 WORKSPACE_DIR = os.path.dirname(os.path.abspath(__file__))
-PDF_DIR = os.path.join(WORKSPACE_DIR, "MATEMÁTICA")
+PDF_DIR = os.path.join(WORKSPACE_DIR, ASIGNATURA_ACTUAL)
 CACHE_DIR = os.path.join(WORKSPACE_DIR, "output_cache")
-OUTPUT_EXCEL = os.path.join(WORKSPACE_DIR, "planes_matematica.xlsx")
-OUTPUT_JSON = os.path.join(WORKSPACE_DIR, "planes_matematica.json")
+BASES_DIR = os.path.join(WORKSPACE_DIR, "bases de datos planes y programas")
+os.makedirs(BASES_DIR, exist_ok=True)
+OUTPUT_EXCEL = os.path.join(BASES_DIR, f"planes_{ASIGNATURA_ACTUAL.lower().replace(' ', '_')}.xlsx")
+OUTPUT_JSON = os.path.join(BASES_DIR, f"planes_{ASIGNATURA_ACTUAL.lower().replace(' ', '_')}.json")
 
 # Asegurar directorios
 os.makedirs(CACHE_DIR, exist_ok=True)
@@ -87,10 +93,16 @@ def consolidar_resultados() -> bool:
         try:
             with open(cache_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
+                
+                # FILTRO DE ASIGNATURA: Ignorar archivos que no correspondan
+                cache_asignatura = data.get("asignatura", "")
+                if cache_asignatura.upper() != ASIGNATURA_ACTUAL.upper():
+                    continue
+
                 lista_completa_jerarquica.append(data)
                 
                 curso = data.get("curso", "Desconocido")
-                asignatura = data.get("asignatura", "Matemática")
+                asignatura = cache_asignatura
                 objetivos = data.get("objetivos", [])
                 
                 for obj in objetivos:
@@ -290,31 +302,49 @@ def main():
             total_omitidos += 1
             continue
             
-        # Extraer mediante Gemini
-        try:
-            logger.info(f"Iniciando extracción con Gemini para: {curso}...")
-            resultado = extract_pdf_data(pdf_path)
-            
-            if resultado:
-                # Validar o forzar que el campo 'curso' sea el nombre legible
-                resultado["curso"] = curso
-                resultado["asignatura"] = "Matemática"
+        # Extraer mediante Gemini con reintento automático
+        MAX_REINTENTOS = 3
+        exito = False
+        
+        for intento in range(1, MAX_REINTENTOS + 1):
+            try:
+                logger.info(f"Iniciando extracción con Gemini para: {curso} (intento {intento}/{MAX_REINTENTOS})...")
+                resultado = extract_pdf_data(pdf_path)
                 
-                # Guardar en caché individual
-                with open(cache_path, "w", encoding="utf-8") as cf:
-                    json.dump(resultado, cf, indent=2, ensure_ascii=False)
+                if resultado:
+                    # Validar o forzar que el campo 'curso' sea el nombre legible
+                    resultado["curso"] = curso
+                    resultado["asignatura"] = ASIGNATURA_ACTUAL.capitalize()
                     
-                logger.info(f"Extracción completada con éxito y guardada en caché para: {curso}")
-                total_procesados += 1
-                
-                # Pausa prudencial entre llamadas a la API para evitar rate limits
-                time.sleep(2)
-            else:
-                logger.error(f"No se obtuvo resultado de la extracción para: {curso}")
-                total_fallidos += 1
-        except Exception as e:
-            logger.error(f"Error inesperado al procesar {curso}: {str(e)}")
-            total_fallidos += 1
+                    # Guardar en caché individual
+                    with open(cache_path, "w", encoding="utf-8") as cf:
+                        json.dump(resultado, cf, indent=2, ensure_ascii=False)
+                        
+                    logger.info(f"Extracción completada con éxito y guardada en caché para: {curso}")
+                    total_procesados += 1
+                    exito = True
+                    break
+                else:
+                    # Sin resultado: posible 429 o error temporal
+                    if intento < MAX_REINTENTOS:
+                        espera = 30 * intento  # 30s, 60s, 90s (backoff)
+                        logger.warning(f"Sin resultado para {curso}. Reintentando en {espera}s...")
+                        time.sleep(espera)
+                    else:
+                        logger.error(f"No se obtuvo resultado de la extracción para: {curso} tras {MAX_REINTENTOS} intentos.")
+                        total_fallidos += 1
+            except Exception as e:
+                if intento < MAX_REINTENTOS:
+                    espera = 30 * intento
+                    logger.warning(f"Error en intento {intento} para {curso}: {str(e)}. Reintentando en {espera}s...")
+                    time.sleep(espera)
+                else:
+                    logger.error(f"Error inesperado al procesar {curso} tras {MAX_REINTENTOS} intentos: {str(e)}")
+                    total_fallidos += 1
+        
+        if exito:
+            # Pausa prudencial entre llamadas exitosas a la API (5 RPM = 1 cada 12s, usamos 20s por seguridad)
+            time.sleep(20)
             
     logger.info("=" * 60)
     logger.info(f"Resumen de Procesamiento:\n"
