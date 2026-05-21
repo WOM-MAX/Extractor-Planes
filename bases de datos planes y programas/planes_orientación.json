@@ -1,0 +1,1147 @@
+[
+  {
+    "curso": "1° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Observar, describir y valorar sus características personales, sus habilidades e intereses.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Nombran características personales que los identifican.",
+          "Identifican elementos comunes y diferencias del cuerpo del hombre y de la mujer.",
+          "Se dibujan a sí mismos, representando algunas de sus características físicas.",
+          "Mencionan actividades en las que se consideran buenos o en las que destacan.",
+          "Expresan sus gustos en diversos ámbitos (por ejemplo: comidas, actividades recreativas, deportes, actividades familiares, etc.).",
+          "Ofrecen ayuda a sus compañeros según sus habilidades."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Identificar emociones experimentadas por ellos y por los demás (por ejemplo, pena, rabia, miedo, alegría) y distinguir diversas formas de expresarlas.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Expresan cómo se sienten en situaciones que los afectan positivamente y situaciones que los afectan negativamente.",
+          "Identifican emociones experimentadas por otros.",
+          "Identifican de qué manera se puede sentir alguien ante las conductas, expresiones corporales y expresiones verbales de otras personas.",
+          "Identifican las expresiones faciales que manifiestan emociones como pena, alegría, miedo y rabia.",
+          "Representan formas de expresar emociones (como pena, rabia, alegría y miedo) por medio de la postura corporal, la comunicación verbal o la expresión facial."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Observar, describir y valorar las expresiones de afecto y cariño, que dan y reciben, en los ámbitos familiar, escolar y social (por ejemplo, compartir tiempo, escuchar a los demás, dar y recibir ayuda).",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Dibujan y nombran situaciones en las que reciben y dan cariño en su ámbito familiar.",
+          "Identifican prácticas de cuidado familiar como formas de expresar cariño y aprecio hacia ellos.",
+          "Proponen formas de dar cariño y agradecer a los miembros de su familia y en el contexto escolar.",
+          "Identifican formas en que dan y reciben cariño en el establecimiento.",
+          "Proponen formas de expresar afecto y cariño a sus pares y en su entorno escolar."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Identificar y practicar, en forma guiada, conductas protectoras y de autocuidado en relación a: rutinas de higiene, actividades de descanso, recreación y actividad física, hábitos de alimentación, resguardo del cuerpo y la intimidad, la entrega de información personal.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Establecen y practican rutinas de higiene (por ejemplo: lavarse los dientes después de cada comida, lavarse las manos antes de comer).",
+          "Nombran algunas consecuencias asociadas a la falta de sueño y descanso apropiados.",
+          "Proponen actividades de recreación y actividad física.",
+          "Nombran actividades y rutinas de vida saludable.",
+          "Clasifican sustancias saludables y no saludables.",
+          "Diferencian hábitos de alimentación saludable y no saludable.",
+          "Identifican las partes íntimas del cuerpo.",
+          "Nombran formas de cuidado del cuerpo y la intimidad.",
+          "Mencionan situaciones en las que no corresponde entregar información personal y formas de evitarlas o enfrentarlas.",
+          "Distinguen información personal que deben resguardar ante desconocidos (por ejemplo: nombre, dirección, nombre de padres)."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Manifestar actitudes de solidaridad y respeto, que favorezcan la convivencia, como: utilizar formas de buen trato (por ejemplo, saludar, despedirse, pedir por favor), actuar en forma respetuosa (por ejemplo, escuchar, respetar turnos, rutinas y pertenencias), compartir con los pares (por ejemplo, jugar juntos, prestarse útiles, ayudar al que lo necesita).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Saludan y se despiden diariamente de sus profesores y compañeros.",
+          "Dan las gracias cuando reciben ayuda o algún favor.",
+          "Escuchan con atención a sus compañeros.",
+          "Comparten sus materiales con otros compañeros.",
+          "Acogen y respetan a sus compañeros en juegos, trabajos y actividades escolares.",
+          "Distinguen entre conductas que favorecen la convivencia y aquellas que no la favorecen.",
+          "Identifican conductas que son negativas en las relaciones interpersonales (por ejemplo: molestar, mentir, pegar, ignorar al otro).",
+          "Prestan ayuda a quien lo necesite.",
+          "Seleccionan normas de convivencia que se comprometen a cumplir.",
+          "Cumplen con las normas de convivencia establecidas para el curso."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Identificar conflictos que surgen entre pares y practicar formas de solucionarlos, como escuchar al otro, ponerse en su lugar, buscar un acuerdo, reconciliarse.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican conflictos simples y cotidianos que se manifiestan en el establecimiento o en su hogar.",
+          "Identifican cómo se pueden sentir las personas envueltas en un conflicto cuando este no se resuelve apropiadamente.",
+          "Proponen alternativas de solución ante algún conflicto que hayan presenciado.",
+          "Toman en consideración las alternativas de solución propuestas por otros.",
+          "Proponen soluciones ante un conflicto de manera conjunta con sus compañeros.",
+          "Buscan llegar a acuerdos con sus compañeros para decidir la manera de solucionar un conflicto.",
+          "Simulan, mediante dramatizaciones, diversas formas de resolver problemas.",
+          "Identifican a adultos a los cuales pedir ayuda ante situaciones de conflicto entre pares."
+        ]
+      },
+      {
+        "eje_curricular": "PARTICIPACIÓN Y PERTENENCIA",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Reconocer, describir y valorar sus grupos de pertenencia (familia, curso, pares), las personas que los componen y sus características, y participar activamente en ellos (por ejemplo, ayudando en el orden de la casa y sala de clases).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Nombran a sus compañeros y profesores.",
+          "Reconocen las dependencias del establecimiento.",
+          "Nombran a los miembros de su familia (mamá, papá, abuelo, tío, hermanos, entre otros).",
+          "Señalan características de su familia y de las personas que la componen (por ejemplo: actividades que realizan en conjunto, roles que cumplen los miembros de la familia, características de personalidad que poseen estos).",
+          "Nombran las diferentes actividades que realizan los miembros de su familia.",
+          "Se expresan de forma positiva de su familia.",
+          "Comentan las actividades que realizan con su familia.",
+          "Dan ideas para colaborar en las tareas de la casa.",
+          "Dan ideas para colaborar con las responsabilidades del curso.",
+          "Identifican características o aspectos comunes que unen a sus grupos de pertenencia (por ejemplo: compartir la vida cotidiana, tener gustos o intereses compartidos, aprecio o afecto hacia los miembros del grupo, etc.)."
+        ]
+      },
+      {
+        "eje_curricular": "TRABAJO ESCOLAR",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Practicar hábitos y actitudes que favorezcan el proceso de aprendizaje, como: traer y cuidar los útiles escolares, mantener el orden de la sala de clases y materiales, identificar los nuevos aprendizajes adquiridos para incentivar la motivación.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Mantienen rutinas de inicio y término del día.",
+          "Con la ayuda del docente, revisan que su estuche esté completo.",
+          "Anotan sus tareas en la agenda con la ayuda del docente.",
+          "Llevan y traen diariamente su agenda a su casa y al establecimiento.",
+          "Llevan diariamente sus cuadernos, libros y lápices.",
+          "Ordenan sus útiles al inicio y al término del día.",
+          "Ordenan su escritorio al inicio y al término del día.",
+          "Ayudan a mantener la limpieza de la sala.",
+          "Guardan materiales al término de las actividades.",
+          "Registran el cumplimiento de las actividades de las distintas asignaturas.",
+          "Mencionan actividades y tareas que son capaces de realizar a partir de los aprendizajes adquiridos en las asignaturas (por ejemplo: leer determinados tipos de palabras o frases, contar hasta cierto número, realizar operaciones aritméticas, etc.).",
+          "Identifican aquellos aprendizajes que les han despertado mayor interés."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "2° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Observar, describir y valorar sus características personales, sus habilidades e intereses.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Nombran características positivas de sí mismos.",
+          "Dan ejemplos de características de su personalidad que los distinguen de otras personas (por ejemplo: se reconocen como tranquilos o inquietos, colaboradores, impacientes, etc.).",
+          "Nombran algunas de sus habilidades y señalan de qué manera sus habilidades contribuyen en el desarrollo de actividades de distinto tipo.",
+          "Ofrecen ayuda a sus compañeros a partir de sus habilidades.",
+          "Identifican habilidades que otras personas (padres y/o apoderados, profesores, amigos y compañeros) reconocen en ellos.",
+          "Distinguen entre actividades que les gusta y no les gusta realizar.",
+          "Jerarquizan actividades de acuerdo a su gusto por ellas.",
+          "Mencionan aquellos aspectos de sus actividades favoritas que los atraen y los hacen disfrutar de ellas."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Identificar emociones experimentadas por ellos y por los demás (por ejemplo, pena, rabia, miedo, alegría) y distinguir diversas formas de expresarlas.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Identifican el tipo de emoción experimentada ante situaciones que hayan resultado importantes para ellos.",
+          "Comparan las sensaciones, deseos y pensamientos que sienten frente a emociones como rabia, miedo, alegría y pena.",
+          "Identifican emociones experimentadas por otros ante situaciones determinadas.",
+          "Reconocen diversos tipos de situaciones que pueden generar una emoción determinada.",
+          "Representan gráficamente emociones, utilizando dibujos de expresiones faciales.",
+          "Realizan mímicas que expresan emociones por medio de expresiones faciales y corporales (pena, rabia, alegría y miedo).",
+          "Proponen diversas formas de expresar para diferentes emociones, utilizando su rostro, su voz o su cuerpo."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Observar, describir y valorar las expresiones de afecto y cariño, que dan y reciben, en los ámbitos familiar, escolar y social (por ejemplo, compartir tiempo, escuchar a los demás, dar y recibir ayuda).",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Dibujan y nombran situaciones en las que reciben cariño en su ámbito familiar.",
+          "Describen algunas formas de expresar cariño por parte de profesores y compañeros (por ejemplo: brindar ayuda, corregir cuando se equivoca, compartir, invitar y acoger en juegos u otras actividades, etc.).",
+          "Identifican similitudes y diferencias en el cuidado y la atención que reciben en el establecimiento y en sus hogares.",
+          "Expresan la importancia que tiene para ellos el cuidado y la atención que reciben en sus familias y en el colegio.",
+          "Señalan aquellas prácticas de expresión de afecto y cariño por las que tienen mayor preferencia.",
+          "Proponen formas de dar cariño y agradecer a los miembros de su familia, de su curso y su establecimiento.",
+          "Dan ejemplos de conductas de ayuda y colaboración con las cuales pueden expresar su preocupación hacia los otros."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Identificar y practicar en forma guiada conductas protectoras y de autocuidado en relación a: rutinas de higiene; actividades de descanso, recreación y actividad física; hábitos de alimentación; resguardo del cuerpo y la intimidad; la entrega de información personal.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Establecen, acuerdan y practican rutinas de higiene.",
+          "Nombran las consecuencias de no realizar hábitos de higiene.",
+          "Identifican actividades de descanso, recreación y actividad física.",
+          "Planifican o acuerdan actividades de recreación.",
+          "Diferencian hábitos de alimentaciones saludables y no saludables.",
+          "Nombran conductas que contribuyen a cuidar sus cuerpos.",
+          "Identifican partes del cuerpo en las que les es cómodo recibir cariño y partes en las que resulta incómodo o inapropiado.",
+          "Proponen formas de rechazar manifestaciones confusas e incómodas de cariño.",
+          "Mencionan las consecuencias o peligros que puede tener compartir información personal con extraños.",
+          "Identifican maneras en las que pueden proteger información personal."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Manifestar actitudes de solidaridad y respeto, que favorezcan la convivencia, como: utilizar formas de buen trato (por ejemplo, saludar, despedirse, pedir por favor); actuar en forma respetuosa (por ejemplo, escuchar, respetar turnos, rutinas y pertenencias); compartir con los pares (por ejemplo, jugar juntos, prestarse útiles, ayudar al que lo necesita).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Saludan y se despiden diariamente de sus profesores y compañeros.",
+          "Cumplen los turnos y rutinas escolares; por ejemplo: lugar en la fila, pedir la palabra levantando la mano, entre otras.",
+          "Acuerdan normas de convivencia y se comprometen a cumplirlas.",
+          "Respetan las responsabilidades asignadas a sus compañeros (como responsables de grupo o fila, entre otros).",
+          "Comparan conductas que favorecen o dificultan la buena convivencia.",
+          "Prestan sus útiles y ayudan a sus compañeros cuando lo necesitan.",
+          "Acogen y respetan a sus compañeros en juegos, trabajos y actividades escolares.",
+          "Proponen ideas para fomentar una buena convivencia."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Identificar conflictos que surgen entre pares y practicar formas de solucionarlos, como escuchar al otro, ponerse en su lugar, buscar un acuerdo, reconciliarse.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Reconocen conflictos entre pares que se manifiestan en su curso y en su vida personal.",
+          "Identifican la causa que genera alguno de los conflictos cotidianos que se dan en su entorno.",
+          "Guiados por el docente, aplican pasos previamente aprendidos para resolver problemas entre pares que surgen en su vida cotidiana.",
+          "Buscan soluciones ante conflictos, considerando tanto las implicancias para sí mismos como para los otros involucrados.",
+          "Mediante el diálogo, generan soluciones ante conflictos con otros, reconociendo aquello que cada uno concede y que cada uno obtiene.",
+          "Piden ayuda a un adulto o a un tercero en caso de necesitarlo para solucionar un conflicto."
+        ]
+      },
+      {
+        "eje_curricular": "Participación y pertenencia",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Reconocer, describir y valorar sus grupos de pertenencia (familia, curso, pares), las personas que los componen y sus características y participar activamente en ellos (por ejemplo, ayudar en el orden de la casa y sala de clases).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Describen las actividades que realizan los miembros de su familia.",
+          "Proponen ideas para colaborar en las tareas de la casa o con los miembros de su familia.",
+          "Señalan algunas características distintivas de su familia.",
+          "Distinguen la contribución que realiza hacia su familia cada uno de los miembros que la componen.",
+          "Señalan intereses y características del curso al cual pertenecen (por ejemplo: que son solidarios, esforzados, inquietos, curiosos, etc.).",
+          "Señalan actividades que les gusta realizar con los compañeros de su curso.",
+          "Nombran y señalan la función que cumplen diferentes personas dentro del establecimiento escolar.",
+          "Colaboran y/o ayudan a sus compañeros.",
+          "Cumplen con sus responsabilidades y compromisos adquiridos con el curso."
+        ]
+      },
+      {
+        "eje_curricular": "Trabajo escolar",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Practicar hábitos y actitudes que favorezcan el proceso de aprendizaje, como: traer y cuidar los útiles escolares; mantener el orden de la sala de clases y materiales; identificar los nuevos aprendizajes adquiridos para incentivar la motivación.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican hábitos y actitudes que favorecen el proceso de aprendizaje.",
+          "Revisan que su estuche esté completo.",
+          "Ordenan su escritorio al finalizar el día.",
+          "Anotan sus tareas en la agenda con la ayuda del docente.",
+          "Llevan diariamente su agenda a su casa y la traen al día siguiente.",
+          "Traen diariamente a clases los cuadernos y libros correspondientes a las asignaturas del día.",
+          "Guardan materiales al término de las actividades.",
+          "Ordenan los materiales necesarios para utilizar en la jornada escolar.",
+          "Ordenan su escritorio al finalizar el día.",
+          "Recogen y botan basura en el papelero.",
+          "Mencionan algunos de los principales conocimientos adquiridos en las asignaturas.",
+          "Identifican aquellos aprendizajes que les han despertado mayor interés."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "3° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "No aplica",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Reconocer y describir causas y consecuencias del consumo de drogas (por ejemplo, tabaco, alcohol, marihuana), lo previenen y proponer estrategias para enfrentarlo, como mantener hábitos de vida saludable y aprender a manejar el estrés.",
+        "nivel_bloom": "Crear",
+        "indicadores": []
+      }
+    ]
+  },
+  {
+    "curso": "4° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Observar, describir y valorar sus características, habilidades y fortalezas (en lo familiar, afectivo, académico y social, entre otros) y proponerse acciones concretas para los aspectos que requiera superar.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican y comunican cualidades propias y de sus compañeros.",
+          "Describen las principales características de su desenvolvimiento en los ámbitos social, académico, físico u otros.",
+          "Explican de qué manera sus cualidades personales les ayudan a desenvolverse en los ámbitos académico, familiar, recreativo y con sus pares y amistades.",
+          "Identifican aspectos posibles de superar en lo personal, académico y social y proponen sugerencias para ello.",
+          "Identifican ámbitos de tareas o acciones que les resulten más difíciles y desafiantes.",
+          "Se comprometen a desarrollar acciones específicas para superarse en algún aspecto que reconozcan como más difícil o desafiante, dadas sus características personales."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Identificar y aceptar sus propias emociones y las de los demás y practicar estrategias personales de manejo emocional (por ejemplo, esperar un tiempo, escuchar al otro y considerar su impacto en los demás).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Describen las emociones que experimentan ante situaciones que los afectan negativa o positivamente.",
+          "Reconocen algunas manifestaciones físicas de las emociones.",
+          "Proponen diversas formas de expresar una misma emoción.",
+          "Distinguen entre formas apropiadas e inapropiadas de expresar emociones en una situación determinada.",
+          "Identifican de qué manera las diversas formas de expresar una emoción pueden impactar positiva o negativamente a otras personas, por medio de estrategias.",
+          "Usan estrategias para manejar sus emociones, como considerar las consecuencias de lo que harán, escuchar a otros, esperar un tiempo."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Reconocer y valorar la sexualidad como expresión de amor, vínculo e intimidad entre dos personas y como gestora de su propia vida.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Demuestran comprender que todas las personas nacen como resultado del encuentro entre un hombre y una mujer.",
+          "Identifican atributos positivos que pueden estar asociados a la sexualidad humana (por ejemplo: intimidad, amor, compañerismo, compromiso, etc.).",
+          "Reconocen las características afectivas y de intimidad que permite la gestación de una nueva vida (por ejemplo: relación entre adultos, exclusiva entre dos personas, vinculada con el amor que siente el uno hacia el otro).",
+          "Diferencian la relación afectiva de pareja de otros tipos de relaciones afectivas: relaciones de amistad y relaciones padres-hijos."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Reconocer y valorar el proceso de desarrollo afectivo y sexual, describiendo los cambios físicos y afectivos que ocurren en la pubertad, y respetar los diferentes ritmos de desarrollo entre sus pares.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Describen diferencias entre las características de desarrollo físico del hombre y la mujer.",
+          "Nombran cambios físicos ocurridos desde la infancia hasta la actualidad.",
+          "Reconocen la etapa de desarrollo en que se encuentran, identificando características propias de ella.",
+          "Mencionan cambios afectivos que viven las personas como consecuencia de su desarrollo sexual (por ejemplo: interés por personas de otro sexo, importancia creciente de los pares y amigos, búsqueda de menor dependencia respecto de padres y cuidadores).",
+          "Se relacionan de manera respetuosa con compañeros u otras personas que presentan un ritmo de desarrollo distinto del propio."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Identificar y practicar en forma autónoma conductas protectoras y de autocuidado en relación a: rutinas de higiene, actividades de descanso, recreación y actividad física, hábitos de alimentación, resguardo del cuerpo y la intimidad, la entrega de información personal, situaciones de potencial abuso, consumo de drogas.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Presentan argumentos en torno a la importancia de mantener hábitos de higiene.",
+          "Analizan críticamente situaciones en las que no se cumple con prácticas y rutinas de aseo e identifican formas en que estas se pueden implementar.",
+          "Analizan sus propias prácticas de aseo e higiene e identifican formas en las que estas se pueden corregir o reforzar.",
+          "Practican actividades de descanso, recreación y actividad física.",
+          "Comparan diversas actividades de descanso y recreación en función de su aporte para mantener una vida saludable.",
+          "Establecen rutinas de actividad física cotidiana y se comprometen a llevarlas a cabo.",
+          "Distinguen los alimentos cuyo consumo diario resulta favorable para una sana alimentación.",
+          "Explican las consecuencias de una alimentación poco saludable.",
+          "Identifican alimentos de consumo diario poco saludable y se comprometen a preferir otros que resulten más saludables cuando sea posible.",
+          "Diferencian entre conductas apropiadas y no apropiadas en relación con la propia intimidad y la de los demás.",
+          "Señalan acciones para proteger su intimidad.",
+          "Explican los riesgos asociados a la entrega de información personal a personas desconocidas.",
+          "Describen formas de enfrentar situaciones en las que se les solicita entregar información personal e íntima que deben resguardar.",
+          "Señalan posibles factores o circunstancias que motivan a una persona a consumir tabaco.",
+          "Establecen riesgos a los que se exponen los consumidores de tabaco.",
+          "Dan ideas para evitar el consumo de tabaco.",
+          "Reflexionan sobre la influencia del grupo de pares en la toma de decisiones especialmente relacionadas con el consumo de drogas."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Manifestar actitudes de solidaridad y respeto, que favorezcan la convivencia, como: actuar en forma empática (poniéndose en el lugar del otro), utilizar un buen trato (por ejemplo, saludar, despedirse, pedir por favor), evitar y rechazar toda forma de violencia y discriminación, ya sea por etnias, género, religión, nacionalidad, etc., respetar el derecho de todos a expresar opiniones y ser diferente, prestar ayuda, especialmente a quien lo necesite, respetar el ambiente de aprendizaje.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Comunican la manera en que se siente otra persona ante una situación determinada, por medio de la expresión verbal y corporal.",
+          "Describen cómo se sentirían en una situación idéntica a la que se encuentra otra persona.",
+          "Establecen normas para el buen trato y se esfuerzan por cumplirlas.",
+          "Identifican situaciones de violencia que se dan a su alrededor.",
+          "Diferencian distintos tipos de violencia.",
+          "Proponen medidas para prevenir y formas de enfrentar las situaciones de violencia en el establecimiento.",
+          "Se manifiestan críticamente ante situaciones en su entorno o en su curso en las que no se respetan las ideas diferentes.",
+          "Identifican situaciones en las que no se ha cumplido el derecho de todos sus compañeros para expresarse y señalan formas de superar esa situación.",
+          "Ofrecen ayuda a sus compañeros según sus habilidades.",
+          "Demuestran preocupación por sus compañeros.",
+          "Proponen formas de mejorar el ambiente de aprendizaje."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Resolver conflictos entre pares en forma guiada y aplicar estrategias diversas de resolución de problemas, tales como escuchar, describir los sentimientos del otro y buscar un acuerdo que satisfaga a ambas partes.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican y describen conflictos en situaciones dadas (como juego en el patio, actividades no dirigidas, trabajo en grupo, turnos de baño, filas, entre otros) y postulan algunas causas posibles.",
+          "Aplican estrategias para la resolución de conflicto, incluyendo la identificación de alternativas de solución, la selección de una de éstas y la implementación de la alternativa seleccionada.",
+          "Reconocen verbalmente que los conflictos son parte de la vida diaria y que pueden resolverse.",
+          "Piden ayuda a un adulto o a un tercero en caso de necesitarlo para solucionar un conflicto."
+        ]
+      },
+      {
+        "eje_curricular": "PARTICIPACIÓN Y PERTENENCIA",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Participar en forma guiada en la comunidad escolar y en la organización del curso: proponiendo y aceptando iniciativas y asumiendo responsabilidades, estableciendo acuerdos por medio del diálogo y de la toma de decisiones democráticas, respetando los derechos de los demás en la distribución de roles y responsabilidades.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Eligen representantes para diferentes funciones.",
+          "Participan activamente en el Consejo de Curso, aportando con opiniones e ideas en debates y reflexiones de grupo.",
+          "Proponen ideas para resolver algún problema que afecte al curso o la comunidad.",
+          "Organizan actividades de curso.",
+          "Establecen acuerdos por medio del diálogo.",
+          "Proponen tareas a realizar para lograr un objetivo en común.",
+          "Asumen sus responsabilidades y cumplen con sus compromisos.",
+          "Permiten la participación de todos los alumnos en las decisiones de curso.",
+          "Reconocen situaciones en las que la participación de algún compañero se ve afectada y buscan formas de asegurar su derecho a participar.",
+          "Evalúan el funcionamiento de las responsabilidades asumidas."
+        ]
+      },
+      {
+        "eje_curricular": "TRABAJO ESCOLAR",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Manifestar hábitos y actitudes de esfuerzo e interés que favorezcan el aprendizaje, como: asistir puntualmente a clases y cumplir a tiempo con los trabajos pedidos, organizar su tiempo y sus útiles, respetar el estudio y el trabajo de otros, evitar el plagio y la copia, preguntar y buscar información sobre temas de su interés, desarrollar actividades en relación con sus propios intereses.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Entregan a tiempo tareas y trabajos.",
+          "Asisten puntualmente a clases y justifican debidamente sus atrasos.",
+          "Ingresan puntualmente a clases después de los recreos.",
+          "Organizan y planifican el uso de su tiempo para alcanzar sus metas.",
+          "Registran diariamente tareas, pruebas y responsabilidades.",
+          "Mantienen sus útiles, libros y cuadernos ordenados.",
+          "Explican la importancia de la honestidad en sus trabajos, tareas y evaluaciones, a partir de la reflexión realizada con sus padres y/o apoderados.",
+          "Llevan a cabo sus trabajos y evaluaciones sin presentar como propios el trabajo o respuesta de otros.",
+          "Buscan información sobre temas de su interés.",
+          "Realizan actividades grupales según sus intereses."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "5° Básico",
+    "asignatura": "Orientación",
+    "objetivos": []
+  },
+  {
+    "curso": "6° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Demostrar una valoración positiva de sí mismo reconociendo habilidades, fortalezas y aspectos que requiera superar.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican y destacan características personales positivas.",
+          "Reconocen fortalezas y logros que los hacen sentirse orgullosos de sí.",
+          "Reconocen características o fortalezas personales que les han permitido alcanzar logros o metas.",
+          "Toman en cuenta las opiniones de otras personas significativas al formar juicios respecto de sus fortalezas y debilidades.",
+          "Identifican aspectos personales posibles de superar y proponen sugerencias para ello.",
+          "Establecen metas concretas de superación personal a partir de la evaluación de sus desempeños y dificultades.",
+          "Definen y llevan a cabo cursos de acción para el logro de metas de superación."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Distinguir y describir emociones y reconocer y practicar formas apropiadas de expresarlas, considerando el posible impacto en sí mismo y en otros.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Nombran y describen las causas de algunas emociones que hayan experimentado.",
+          "Identifican el tipo de emoción que puede provocar una situación determinada.",
+          "Describen las sensaciones, deseos y pensamientos de una persona que experimenta una emoción determinada.",
+          "Identifican las formas en que se manifiestan las emociones en obras de arte, personajes de películas o cuentos.",
+          "Explican de qué formas su conducta puede ser influenciada por sus emociones.",
+          "Describen consecuencias que puede tener en otros y en sí mismo la forma en que expresan sus emociones.",
+          "Proponen formas en las que se puede mejorar o corregir la manera de expresar una emoción.",
+          "Expresan sus emociones de una manera consonante con lo que sienten y, a la vez, respetuosa con los demás.",
+          "Modifican la forma de expresar sus emociones cuando las han manifestado de manera impulsiva y dañina o hiriente para otros."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Reconocer y valorar el proceso de desarrollo afectivo y sexual, que aprecia en sí mismo y en los demás, describiendo los cambios físicos, afectivos y sociales que ocurren en la pubertad, considerando la manifestación de estos en las motivaciones, formas de relacionarse y expresar afecto a los demás.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Describen los cambios experimentados en la pubertad, considerando aquellos de carácter físico, afectivo y social.",
+          "Comparan las características de los cambios que tienen lugar en hombres y mujeres durante la pubertad.",
+          "Describen cambios en sí mismos relativos a sus intereses, formas de recreación y de relacionarse con sus padres y adultos en general.",
+          "Explican algunos de los desafíos que les presentan los cambios experimentados en la pubertad.",
+          "Identifican y evalúan distintas formas de relacionarse con otros.",
+          "Nombran modos de expresar afecto."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Practicar en forma autónoma conductas protectoras y de autocuidado, como: mantener una comunicación efectiva con la familia o adulto de su confianza; resguardar la intimidad, (por ejemplo, evitando exponer información personal, fotos íntimas a través de redes sociales, protegiéndose de manifestaciones de índole sexual inapropiadas); seleccionar y acudir a fuentes de información confiables (personas significativas, libros y páginas de internet especializadas); realizar un uso seguro de redes sociales.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican adultos de su confianza a los cuales recurrir ante dudas o problemas que involucran el resguardo y cuidado de su cuerpo e intimidad.",
+          "Distinguen conductas protectoras en relación con el cuidado de su cuerpo e intimidad.",
+          "Identifican en su entorno situaciones o condiciones de riesgo para su integridad física y su intimidad.",
+          "Identifican consecuencias de exponer información personal en internet.",
+          "Discriminan entre fuentes de informaciones seguras e inseguras.",
+          "Explican riesgos que puede traer consigo consultar fuentes de información inseguras.",
+          "Resguardan su información personal en las redes sociales.",
+          "Contrastan beneficios y riesgos del uso de las redes sociales.",
+          "Promueven el uso seguro de las redes sociales."
+        ]
+      },
+      {
+        "eje_curricular": "CRECIMIENTO PERSONAL",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Reconocer y describir causas y consecuencias del consumo de drogas (por ejemplo, tabaco, alcohol, marihuana), identificar factores que lo previenen y proponer estrategias para enfrentarlo, como mantener hábitos de vida saludable y aprender a manejar el stress.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Distinguen creencias verdaderas y falsas en relación con el consumo de drogas.",
+          "Describen causas y consecuencias del consumo de drogas.",
+          "Identifican riesgos a los que se exponen los consumidores.",
+          "Reconocen la influencia (positiva o negativa) del grupo de pares en la toma de decisiones.",
+          "Proponen estrategias para enfrentar la presión de pares hacia el consumo de drogas.",
+          "Identifican de qué maneras la publicidad incentiva el consumo de alcohol.",
+          "Proponen ideas para prevenir y rechazar el consumo de drogas.",
+          "Reconocen los beneficios de realizar actividad física para la prevención del consumo de drogas.",
+          "Mantienen hábitos de vida saludable.",
+          "Dan ideas para evitar el consumo de drogas."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Manifestar actitudes de solidaridad y respeto que favorezcan la convivencia, como: actuar en forma empática (poniéndose en el lugar del otro); utilizar un buen trato (por ejemplo, saludar, despedirse, pedir por favor); evitar y rechazar toda forma de violencia y discriminación, ya sea por etnia, género, religión, nacionalidad, etc.; respetar el derecho de todos a expresar opiniones y ser diferente; prestar ayuda especialmente a quien lo necesite; respetar el ambiente de aprendizaje.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Explican el concepto de empatía.",
+          "Escuchan de manera atenta y activa los problemas e ideas de otros.",
+          "Establecen normas de convivencia y se esfuerzan por cumplirlas.",
+          "Proponen actividades o acuerdos para evitar la discriminación y favorecer la participación de todos.",
+          "Ofrecen ayuda a sus compañeros y a quien lo necesite.",
+          "Proponen formas de manifestar solidaridad ante amigos u otras personas (por ejemplo: brindarles apoyo cuando tienen problemas, mantener los compromisos asumidos hacia ellos, preocuparse por el bienestar del otro, etc.).",
+          "Muestran respeto por el ambiente de aprendizaje, manteniendo silencio cuando es necesario.",
+          "Describen los protocolos de violencia en el establecimiento.",
+          "Proponen medidas para prevenir y resolver casos de violencia.",
+          "Organizan actividades recreativas en las que se practiquen el respeto, la empatía y la integración."
+        ]
+      },
+      {
+        "eje_curricular": "RELACIONES INTERPERSONALES",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Resolver conflictos de convivencia en forma autónoma, seleccionando y aplicando diversas estrategias de resolución de problemas.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican, junto a algunos compañeros, situaciones de conflicto, reconociendo sus posibles causas y evaluando soluciones posibles.",
+          "Establecen estrategias que pueden utilizar autónomamente para enfrentar una situación de conflicto determinada.",
+          "Aplican por iniciativa propia estrategias de resolución de conflicto ante situaciones específicas que se presenten en el establecimiento u otros ámbitos de su vida cotidiana.",
+          "Identifican las formas en que suelen resolver algunos conflictos y distinguen en qué aspectos podrían mejorarlas.",
+          "Identifican y explican las oportunidades de crecimiento que aporta un conflicto.",
+          "Señalan la importancia de resolver conflictos por sí mismos y reconocen las limitaciones de recurrir a un adulto todas las veces que se presenta algún conflicto."
+        ]
+      },
+      {
+        "eje_curricular": "PARTICIPACIÓN Y PERTENENCIA",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Participar en forma guiada en la comunidad escolar y en la organización del curso: planificando y evaluando actividades encaminadas a un objetivo; organizándose para resolver problemas cotidianos de la comunidad; asumiendo y cumpliendo responsabilidades; participando en las elecciones de curso y aceptando los resultados; respetando los derechos de los demás, sin discriminar en la distribución de roles y responsabilidades, entre otros; estableciendo acuerdos a través del diálogo y la toma de decisiones democráticas; evaluando el cumplimiento de los acuerdos de curso.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Definen los objetivos del consejo de curso.",
+          "Definen roles y funciones de la directiva.",
+          "Eligen directiva de curso democráticamente.",
+          "Respetan los acuerdos y votaciones realizadas en el curso.",
+          "Proponen estrategias para abordar necesidades del curso.",
+          "Planifican líneas de acción para resolver algún problema de la comunidad.",
+          "Se organizan para desarrollar iniciativas destinadas a favorecer el bienestar escolar.",
+          "Proponen iniciativas y acogen las de sus compañeros.",
+          "Distribuyen responsabilidades equitativamente entre hombres y mujeres.",
+          "Permiten la participación de todos en las decisiones de curso.",
+          "Asumen sus responsabilidades y cumplen con sus compromisos.",
+          "Participan activamente en el Consejo de Curso, aportando con opiniones e ideas en debates y reflexiones de grupo.",
+          "Aportan con sus habilidades e ideas para desarrollar proyectos e iniciativas de curso.",
+          "Respetan los acuerdos y votaciones realizadas en el curso.",
+          "Evalúan el funcionamiento de la directiva y de las actividades.",
+          "Evalúan el cumplimiento de los acuerdos de curso."
+        ]
+      },
+      {
+        "eje_curricular": "TRABAJO ESCOLAR",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Practicar en forma autónoma y perseverante, hábitos y actitudes orientadas a favorecer el aprendizaje y a desarrollar sus intereses, tales como: establecer metas de aprendizaje; estudiar con anticipación, organizando su tiempo; trabajar en forma colaborativa; respetar el estudio y el trabajo de otros; evitar el plagio y la copia; preguntar y buscar información sobre temas de su interés; desarrollar actividades en relación a sus propios intereses.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Explican la importancia de proponerse metas y definir las acciones necesarias para alcanzarlas.",
+          "Se plantean metas de superación académica.",
+          "Se proponen metas de aprendizaje y señalan las acciones para lograrlas.",
+          "Explican razones por las cuales es importante esforzarse para cumplir metas.",
+          "Persisten en el desarrollo de actividades o trabajos que les han resultado difíciles, buscando diversas maneras de desarrollarlos.",
+          "Identifican obstáculos que podrían entorpecer la consecución de la meta y definen estrategias para enfrentarlos.",
+          "Evalúan su rendimiento académico, guiados por el docente, y se proponen estrategias para mejorar.",
+          "Evalúan el cumplimiento de acciones propuestas para mejorar su organización y estudio.",
+          "Evalúan el uso del tiempo dedicado al trabajo escolar.",
+          "Definen los valores del esfuerzo, la responsabilidad y la honestidad.",
+          "Explican la importancia del esfuerzo, la responsabilidad y la honestidad para el aprendizaje.",
+          "Explican las consecuencias del plagio.",
+          "Realizan sus trabajos señalando la fuente o la autoría de las ideas presentadas.",
+          "Buscan información en relación con sus intereses.",
+          "Realizan diversas actividades de su interés de manera organizada y planificada."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "7° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Construir, en forma individual y colectiva, representaciones positivas de sí mismos, incorporando sus características, motivaciones, intereses y capacidades, considerando las experiencias de cambio asociadas a la pubertad y adolescencia.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Reconocen y describen características personales que valoran positivamente de sí mismos y de sus pares.",
+          "Reconocen y describen la manera en que sus características, motivaciones e intereses han ido cambiando durante la pubertad y adolescencia.",
+          "Describen la manera en que los cambios propios de su edad se expresan en sus relaciones sociales, en sus emociones e imagen corporal.",
+          "Describen acciones para desarrollar sus características personales positivas en el ámbito social, afectivo, cognitivo u otro."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Analizar, considerando sus experiencias e inquietudes, la importancia que tiene para el desarrollo personal la integración de las distintas dimensiones de la sexualidad, el cuidado del cuerpo y la intimidad, discriminando formas de relacionarse en un marco de respeto y el uso de fuentes de información apropiadas para su desarrollo personal.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Distinguen las formas en que se expresa la afectividad humana en los ámbitos corporal y social y las reconocen en su experiencia.",
+          "Diferencian las distintas expresiones de la sexualidad asociándolas con los grados de intimidad en una relación.",
+          "Explican las contribuciones que tiene la integración de las dimensiones de la sexualidad al desarrollo afectivo y bienestar personal.",
+          "Reconocen, entre las fuentes de información que están a su alcance, aquellas que aportan a su desarrollo integral y las características que las distinguen.",
+          "Describen formas de cuidado de sí mismo y de su intimidad en relaciones presenciales y virtuales, distinguiendo conductas violentas o disruptivas de la intimidad."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Identificar situaciones que puedan exponer a las y los adolescentes al consumo de sustancias nocivas para el organismo, conductas sexuales riesgosas, conductas violentas, entre otras problemáticas; reconociendo la importancia de desarrollar estrategias para enfrentarlas, y contar con recursos tales como: la comunicación asertiva y la ayuda de personas significativas y/o especializadas, dentro o fuera del establecimiento.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Identifican situaciones riesgosas en su entorno y en su cotidianeidad que pueden afectar su bienestar físico o mental.",
+          "Reconocen la relevancia de las capacidades y recursos personales para enfrentar situaciones de riesgo.",
+          "Evalúan la manera en que han enfrentado situaciones de riesgo y proponen acciones preventivas para enfrentar situaciones similares.",
+          "Identifican redes de apoyo a las cuales acudir en situaciones de riesgo."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Integrar a su vida cotidiana acciones que favorezcan el bienestar y la vida saludable en el plano personal y en la comunidad escolar, optando por una alimentación saludable, un descanso apropiado, realizando actividad física o practicando deporte, resguardando la intimidad e integridad del cuerpo, incorporando medidas de seguridad en el uso de redes sociales, entre otros.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Diferencian los conceptos de bienestar y vida saludable.",
+          "Reconocen los efectos positivos para su bienestar de incorporar hábitos de vida saludable relacionados con la alimentación, actividad física, descanso, entre otras.",
+          "Proponen iniciativas para promover de manera personal o grupal el bienestar o vida saludable.",
+          "Proponen como curso acciones que aseguren un buen uso de las redes de comunicación virtual y la protección de información personal en internet."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Analizar sus relaciones, presenciales o virtuales a través de las redes sociales, y las de su entorno inmediato atendiendo a los derechos de las personas involucradas considerando los principios de igualdad, dignidad, inclusión y no discriminación, identificando circunstancias en las que no se ha actuado conforme a estos derechos, y reconociendo el impacto en el bienestar de quienes se vean involucrados.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Analizan críticamente sus relaciones virtuales, reconociendo el impacto positivo o negativo que puede tener en otras personas el contenido y la forma de transmitir mensajes.",
+          "Reconocen en sus relaciones cotidianas cómo se expresan en forma concreta los principios de igualdad, dignidad, inclusión y no discriminación.",
+          "Analizan situaciones presenciales o virtuales en las que se vulneran la intimidad e integridad personal.",
+          "Reconocen el impacto que tendría en sí mismo ser objeto de mensajes o dinámicas discriminatorias o experimentar relaciones abusivas.",
+          "Establecen compromisos a nivel de curso en que se respeten el buen trato entre sus integrantes y que se expresen en acciones concretas propias de su convivencia cotidiana."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Resolver conflictos y desacuerdos a través del diálogo, la escucha empática y la búsqueda de soluciones en forma respetuosa y sin violencia, reconociendo que el conflicto es una oportunidad de aprendizaje y desarrollo inherente a las relaciones humanas.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Escuchan de manera atenta y respetuosa las ideas y posturas de personas con las que tienen diferencias de opinión o conflictos de interés.",
+          "Examinan sus propias ideas y posturas en situaciones de diferencias de opinión, expresando de manera sincera y respetuosa las ideas y sentimientos asociados a la situación.",
+          "Determinan formas de llegar a acuerdos para resolver conflictos y diferencias.",
+          "Distinguen entre las posturas críticas que otras personas dirigen hacia sus ideas expresiones de agresión o descalificación.",
+          "Identifican aprendizajes alcanzados por medio de experiencias en las que se han resuelto conflictos de manera exitosa y pacífica."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Reconocer intereses, inquietudes, problemas o necesidades compartidas con su grupo de pertenencia, ya sea dentro del curso u otros espacios de participación, y colaborar para alcanzar metas comunes valorando el trabajo en equipo y los aportes de cada uno de sus miembros.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Discriminan intereses personales que son compartidos con sus compañeros, compañeras o grupo de aquellos que no son compartidos.",
+          "Reconocen problemáticas relevantes y desafíos comunes que aportan al bienestar del curso.",
+          "Identifican las características de un trabajo colaborativo y cómo esa forma de enfrentar las tareas contribuye al desarrollo de proyectos en conjunto.",
+          "Asumen compromisos y tareas que contribuyen al desarrollo de intereses y desafíos comunes.",
+          "Participan de manera colaborativa en el desarrollo de actividades diseñadas en conjunto para el logro de metas de curso."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Elaborar acuerdos orientados al logro de fines compartidos por el curso, utilizando para esto los espacios de participación disponibles, como Consejo de Curso, asambleas, encuentros u otros, contribuyendo democráticamente a través del diálogo, el debate y el reconocimiento de representantes democráticamente electos; respetando la diversidad de opiniones y el derecho de hombres y mujeres.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Reconocen distintas maneras de participar activamente en las situaciones de curso y lo hacen, entre otras formas, por medio de debates, opiniones basadas en argumentos y con su voto cuando corresponda.",
+          "Establecen acuerdos sobre temáticas y desafíos a abordar como grupo, acogiendo las distintas visiones, sensibilidades y perspectivas de sus miembros.",
+          "Diseñan, en colaboración con sus pares, iniciativas para el logro de propósitos comunes dando la posibilidad a todos de participar.",
+          "Respetan a quienes no se sienten representados o no comparten las decisiones tomadas por la mayoría.",
+          "Participan en Consejo de Curso u otras instancias de organización de acuerdo a los roles y responsabilidades democráticamente asignados."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Reconocer sus intereses, motivaciones, necesidades y capacidades, comprendiendo la relevancia del aprendizaje escolar sistemático para la exploración y desarrollo de estos, así como para la elaboración de sus proyectos personales.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Identifican sus intereses personales.",
+          "Distinguen sus propios intereses de aquellos que otros u otras expresan en la comunidad curso.",
+          "Reconocen las maneras en que sus motivaciones pueden influenciar sus acciones y conductas.",
+          "Describen formas concretas de desarrollar algunos de sus intereses.",
+          "Describen el aporte del aprendizaje para el desarrollo de sus intereses personales."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 10",
+        "descripcion_oa": "Gestionar de manera autónoma su propio proceso de aprendizaje escolar, a través del establecimiento de metas progresivas de aprendizaje, la definición de líneas de acción para lograrlas, el monitoreo de logros y la redefinición de acciones que resulten necesarias.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Establecen objetivos a lograr que aporten a su crecimiento, tomando en cuenta sus habilidades en el ámbito académico, en el plano del desarrollo personal y social.",
+          "Enumeran obstáculos internos y externos que pueden surgir para el logro de sus metas y proponen posibles acciones que pueden realizar para enfrentarlos.",
+          "Elaboran un plan para desarrollar alguna meta personal, identificando los pasos a seguir y la periodicidad de su evaluación.",
+          "Reconocen el avance obtenido y las dificultades enfrentadas en la consecución de sus metas expresadas en un plan de desarrollo.",
+          "Reconocen las metas logradas en el proceso de aprendizaje."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "8° Básico",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Construir, en forma individual y colectiva, representaciones positivas de sí mismos, incorporando sus características, motivaciones, intereses y capacidades, considerando las experiencias de cambio asociadas a la pubertad y adolescencia.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Jerarquizan sus características personales según la valoración personal que hacen de ellas.",
+          "Reconocen formas en las que pueden desarrollar sus características personales positivas.",
+          "Proyectan sus características personales a etapas próximas de su vida.",
+          "Analizan de qué forma sus motivaciones contribuyen al desarrollo de sus capacidades y habilidades.",
+          "Distinguen los intereses y motivaciones que han plasmado en actividades concretas de aquellas que todavía no se muestran tan claramente."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Analizar, considerando sus experiencias e inquietudes, la importancia que tiene para el desarrollo personal la integración de las distintas dimensiones de la sexualidad, el cuidado del cuerpo y la intimidad, discriminando formas de relacionarse en un marco de respeto y el uso de fuentes de información apropiadas para su desarrollo personal.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Distinguen las formas en que se expresa la afectividad humana en los ámbitos corporal y social y las reconocen en su vida.",
+          "Diferencian las distintas expresiones de la sexualidad y las relacionan con los grados de intimidad de una relación.",
+          "Explican el aporte que representa la integración de las dimensiones de la sexualidad al desarrollo afectivo y bienestar personal.",
+          "Analizan críticamente situaciones de su entorno cercano en las que el cuerpo se trata como objeto sexual.",
+          "Reconocen, entre las fuentes de información que están a su alcance, aquellas que aportan a su desarrollo integral y las características que las distinguen.",
+          "Describen formas de cuidado de sí mismo y del otro en relaciones presenciales y virtuales, distinguiendo conductas violentas o disruptivas de la intimidad."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Identificar situaciones que puedan exponer a las y los adolescentes al consumo de sustancias nocivas para el organismo, conductas sexuales riesgosas, conductas violentas, entre otras problemáticas; reconociendo la importancia de desarrollar estrategias para enfrentarlas, y contar con recursos tales como: la comunicación asertiva y la ayuda de personas significativas y/o especializadas, dentro o fuera del establecimiento.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Reconocen su vulnerabilidad ante situaciones de riesgo e identifican conductas y estrategias concretas que les ayudan a enfrentarlas.",
+          "Reconocen prácticas y conductas que disminuyen los riesgos de una relación de pololeo tóxica, embarazo precoz, contraer alguna ITS, etc.",
+          "Analizan críticamente las experiencias vividas por su grupo de pares reconociendo aquellas que les aportan a su desarrollo de aquellas que no las y los benefician o exponen a situaciones de riesgo.",
+          "Identifican a quién o dónde solicitar ayuda de acuerdo a la situación para sí o para otros."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Integrar a su vida cotidiana acciones que favorezcan el bienestar y la vida saludable en el plano personal y en la comunidad escolar, optando por una alimentación saludable, un descanso apropiado, realizando actividad física o practicando deporte, resguardando la intimidad e integridad del cuerpo, incorporando medidas de seguridad en el uso de redes sociales, entre otros.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Implementan iniciativas para promover de manera personal o grupal la vida saludable y las evalúan en función del bienestar que generan.",
+          "Implementan iniciativas que favorezcan el bienestar dentro del curso o del establecimiento y las evalúan en función de sus efectos en la convivencia.",
+          "Analizan cómo se vulneran los derechos de las personas en las redes sociales y la web, estableciendo las consecuencias de ello.",
+          "Identifican situaciones en las que deben recurrir a un adulto responsable para manifestar algún hecho que afecte el bienestar de algún compañero o compañera."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Analizar sus relaciones, presenciales o virtuales a través de las redes sociales, y las de su entorno inmediato atendiendo a los derechos de las personas involucradas considerando los principios de igualdad, dignidad, inclusión y no discriminación, identificando circunstancias en las que no se ha actuado conforme a estos derechos, y reconociendo el impacto en el bienestar de quienes se vean involucrados.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Reconocen de qué manera sus propias acciones pueden validar, ya sea de manera activa o pasiva, relaciones dañinas entre su grupo de pares y cómo su propio actuar podría modificarse.",
+          "Reconocen el impacto emocional y social del trato denigrante o discriminatorio en quienes son objeto de este tipo de relaciones.",
+          "Proponen acciones concretas para modificar los patrones de relación del curso que pueden contribuir a favorecer el respeto y la dignidad de todos.",
+          "Distinguen derechos o principios de las personas que se pueden ver vulnerados ante el uso inadecuado de las redes sociales.",
+          "Identifican grupos que pueden ser objeto de tratos discriminatorios y describen los desafíos asociados a superar dicha situación."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Resolver conflictos y desacuerdos a través del diálogo, la escucha empática y la búsqueda de soluciones en forma respetuosa y sin violencia, reconociendo que el conflicto es una oportunidad de aprendizaje y desarrollo inherente a las relaciones humanas.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Reconocen y validan las distintas perspectivas bajo las cuales se puede visualizar una misma situación.",
+          "Evalúan soluciones alternativas ante situaciones de conflicto, considerando la manera en que se ajustan a los intereses y bienestar de ambas partes.",
+          "Identifican los riesgos e implicancias de situaciones en las que las diferencias o los desacuerdos no son planteados de manera clara y transparente.",
+          "Contrastan las implicancias de la resolución de conflictos mediante el diálogo y los acuerdos de las que se derivan de la resolución violenta, arbitraria o impositiva."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Reconocer intereses, inquietudes, problemas o necesidades compartidas con su grupo de pertenencia, ya sea dentro del curso u otros espacios de participación, y colaborar para alcanzar metas comunes valorando el trabajo en equipo y los aportes de cada uno de sus miembros.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Identifican posibles tensiones entre intereses o inquietudes personales y grupales, y formas en que estas se pueden resolver.",
+          "Reconocen y priorizan intereses, inquietudes o necesidades que contribuyen a generan un sentido de unión entre los miembros del curso o grupo.",
+          "Reconocen de qué manera sus aportes y capacidades se pueden complementar con las de otros compañeros o compañeras para el logro de propósitos comunes.",
+          "Proponen y asumen compromisos con el fin de canalizar intereses y necesidades del curso o del grupo."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Elaborar acuerdos orientados al logro de fines compartidos por el curso, utilizando para esto los espacios de participación disponibles, como Consejo de Curso, asambleas, encuentros u otros, contribuyendo democráticamente a través del diálogo, el debate y el reconocimiento de representantes democráticamente electos; respetando la diversidad de opiniones y el derecho de hombres y mujeres.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Reconocen distintas maneras de participar activamente en las situaciones de curso y lo hacen, entre otras formas, a través de debates, opiniones basadas en argumentos y con su voto cuando corresponda.",
+          "Deliberan sobre asuntos referidos al curso en base al diálogo y a la exposición de argumentos.",
+          "Evalúan las formas de participación en el curso en función del respeto por la diversidad de opiniones y la igualdad de derechos.",
+          "Escogen directiva y representantes de acuerdo a procedimientos de elección democráticos.",
+          "Reconocen el valor de las formas de organización democrática y justa, tanto en el curso y en su escuela, como en la sociedad en general."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Reconocer sus intereses, motivaciones, necesidades y capacidades, comprendiendo la relevancia del aprendizaje escolar sistemático para la exploración y desarrollo de estos, así como para la elaboración de sus proyectos personales.",
+        "nivel_bloom": "Comprender",
+        "indicadores": [
+          "Identifican y priorizan sus intereses.",
+          "Elaboran proyecciones de sí mismos en el futuro, en consideración de sus intereses y motivaciones.",
+          "Reconocen qué intereses quisieran desarrollar en mayor medida y los pasos a seguir para realizarlo.",
+          "Describen qué necesitan aprender (sus necesidades de aprendizaje) para fortalecer el desarrollo de sus intereses y motivaciones.",
+          "Describen algunas condiciones relevantes que afectan o favorecen la posibilidad de desarrollar sus intereses."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 10",
+        "descripcion_oa": "Gestionar de manera autónoma su propio proceso de aprendizaje escolar, a través del establecimiento de metas progresivas de aprendizaje, la definición de líneas de acción para lograrlas, el monitoreo de logros y la redefinición de acciones que resulten necesarias.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Reconocen fortalezas en el ámbito del aprendizaje.",
+          "Identifican la relación entre el aprendizaje, el logro de sus metas personales y el desarrollo de sus habilidades.",
+          "Priorizan sus objetivos y los pasos a seguir para la consecución de sus metas.",
+          "Reconocen los posibles obstáculos a los que se pueden enfrentar en la consecución de sus metas.",
+          "Establecen un plan de acción que les permita enfrentar los obstáculos sin abandonar sus objetivos.",
+          "Reconocen las metas logradas en el proceso de aprendizaje y las prioriza según la relevancia que tienen para ellos y ellas."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "I Medio",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Comparar distintas alternativas posibles de sus proyectos de vida, en los ámbitos laboral, familiar u otros, considerando sus intereses, condiciones, capacidades, y la manera en que las propias decisiones y experiencias pueden influir en que estas alternativas se hagan realidad.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Reconocen sus intereses, condiciones y capacidades que facilitarían la construcción del proyecto de vida.",
+          "Identifican experiencias y valores relevantes para la toma de decisiones sobre su proyecto de vida.",
+          "Elaboran alternativas para su proyecto de vida en las distintas áreas del desarrollo (psicológico, social, familiar, entre otros).",
+          "Describen elementos que pueden obstaculizar el desarrollo de su proyecto de vida.",
+          "Analizan distintas opciones y/o formas para alcanzar su proyecto de vida.",
+          "Distinguen las consecuencias que pueden tener sus decisiones tomadas a corto plazo sobre las alternativas a su proyecto de vida."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Analizar de manera fundamentada temáticas y situaciones relacionadas con la sexualidad y los vínculos afectivos, en función de valores como el respeto hacia todo ser humano, la responsabilidad y el cuidado de sí mismos y de los demás, considerando el resguardo de la salud, la intimidad, la integridad física y emocional.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Identifican situaciones en donde se ve trasgredido el resguardo de la salud, la intimidad, y la integridad física y emocional.",
+          "Reconocen relaciones entre estereotipos asociados a los roles de género y los principios de equidad y respeto hacia todas las personas.",
+          "Diferencian maneras de favorecer el respeto por su propia intimidad, integridad física y emocional de aquellas condiciones en que se transgrede su bienestar personal.",
+          "Utilizan estrategias para afrontar las diversas problemáticas asociadas a la sexualidad y el vínculo afectivo.",
+          "Obtienen información y orientación respecto de la diversidad sexual vinculada con orientación e identidad de género.",
+          "Explican factores protectores y de riesgo en el ámbito de la sexualidad y los vínculos afectivos a nivel personal y de quienes los rodean."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Evaluar, en sí mismos y en su entorno, situaciones problemáticas y/o de riesgos relacionadas con el consumo de sustancias, conductas sexuales riesgosas y la violencia, entre otros, e identificar y recurrir a redes de apoyo a las que pueden pedir ayuda, como familia, profesores, instituciones de salud, centros comunitarios y fonos y páginas web especializadas, entre otros.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Descubren en su entorno patrones de conducta que pueden resultar problemáticos para la salud y el bienestar.",
+          "Reconocen aspectos de sus propias conductas que pueden implicar riesgos para sí o para otras y otros.",
+          "Identifican el impacto que las conductas de riesgo pueden tener sobre sí mismas o sí mismos.",
+          "Distinguen personas de su entorno cercano a las que se puede recurrir para la búsqueda de apoyo ante situaciones riesgosas.",
+          "Discriminan páginas web desde las que pueden extraer información confiable sobre posibles riesgos y su prevención."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Promover y llevar a cabo de manera autónoma acciones que favorezcan la vida saludable a nivel personal y social, manifestando interés y preocupación ante problemas y situaciones de su entorno y de sus vidas (cuidado de la alimentación, manejo adecuado del estrés, uso positivo del tiempo de ocio, prevención de riesgos y seguridad personal en situaciones cotidianas, entre otros).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Reconocen iniciativas en las que pueden participar para favorecer un estilo de vida saludable.",
+          "Discriminan prácticas y condiciones de su entorno que impactan positivamente en el propio bienestar y/o el de otras personas.",
+          "Participan en el desarrollo de iniciativas orientadas a promover el bienestar propio y el de otras personas.",
+          "Describen el impacto que pueden tener prácticas de hábitos saludables en su entorno sobre el bienestar de las personas."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Promover en su entorno relaciones interpersonales constructivas, sean estas presenciales o por medio de las redes sociales, sobre la base del análisis de situaciones, considerando los derechos de las personas acorde a los principios de igualdad, dignidad, inclusión y no discriminación.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Reconocen, en su entorno presencial y virtual, prácticas o patrones de relación que son consistentes con los principios de igualdad, dignidad, inclusión y no discriminación, y sus consecuencias.",
+          "Analizan aspectos de las prácticas y relaciones cotidianas, en su entorno presencial y virtual, que pueden ser modificados para asegurar el respeto de la dignidad de todas las personas y evitar la discriminación.",
+          "Establecen formas de relaciones interpersonales constructivas que reparen el daño en víctimas de tratos agresivos, denigrantes o discriminatorios.",
+          "Generan acciones que sensibilicen a quienes presencien situaciones de abuso o agresión, con la finalidad de no validarlas, desincentivarlas o finalizarlas."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Discriminar alternativas para la resolución de conflictos en un marco de derechos, que promuevan la búsqueda de acuerdos que beneficien a las partes involucradas y que impliquen el compromiso recíproco.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Distinguen estrategias de resolución pacífica de conflictos basadas en acuerdos que beneficien a todos los involucrados.",
+          "Favorecen el uso de estrategias de resolución pacífica de conflictos a nivel personal.",
+          "Demuestran compromiso por respetar las condiciones acordadas para la resolución de conflictos.",
+          "Plantean resolver conflictos mediante la negociación o mediación entre pares.",
+          "Establecen acciones a favor de la resolución pacífica de conflictos respondiendo a los intereses de ambas partes."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Evaluar en su entorno social e institucional cercano, como curso, establecimiento, barrio u otro, instancias en las que puedan participar o contribuir a la resolución de problemáticas a partir del reconocimiento de sí mismos y de los demás como sujetos de derecho, considerando aspectos como el respeto por la dignidad, la diversidad, la equidad de género, la inclusión, la participación democrática, la justicia y el bienestar.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Reconocen instancias en las que pueden participar y contribuir para enfrentar necesidades o problemas que se manifiesten en su curso, establecimiento y barrio.",
+          "Identifican vacíos y aportes de las normas de su curso y establecimiento para el resguardo de la dignidad, el respeto a la diversidad y la participación equitativa y democrática.",
+          "Distinguen logros efectivos de las instancias de participación de su entorno cercano para dar respuesta a intereses de la comunidad.",
+          "Descubren líneas de acción que no han sido desarrolladas, para dar solución a problemáticas relacionadas con la justicia, participación democrática, equidad o inclusión.",
+          "Establecen ideas para fortalecer la participación, la democracia y la justicia a través de la definición o perfeccionamiento de normas."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Desarrollar iniciativas orientadas a promover el respeto, la justicia, el buen trato, las relaciones pacíficas y el bien común en el propio curso y la comunidad escolar, participando en instancias colectivas, como el Consejo de Curso, órganos de representación estudiantil u otros, de manera colaborativa y democrática, mediante el diálogo y el debate respetuoso ante la diversidad de opiniones.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Proponen actividades para favorecer el buen trato y los intereses comunes del curso o de la comunidad escolar.",
+          "Plantean sus ideas y propuestas en los espacios de deliberación del curso, dando a conocer de manera respetuosa los argumentos que las sustentan.",
+          "Consideran ideas de otras y otros para complementar las propias y para diseñar o proponer líneas de acción que puedan ejecutar como grupo.",
+          "Llevan a cabo las tareas o acciones acordadas con el curso, trabajando de manera colaborativa con sus compañeras o compañeros."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Contrastar diversos posibles caminos a seguir en el desarrollo de sus proyectos de vida, tomando en cuenta distintas opciones laborales y académicas y reconociendo sus habilidades e intereses.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Reconocen intereses y habilidades que pueden ser relevantes en el desarrollo de su proyecto de vida.",
+          "Identifican cómo sus intereses y habilidades se pueden proyectar en posibles opciones académicas y laborales.",
+          "Establecen opciones académicas o laborales en función de su vinculación con las propias habilidades e intereses.",
+          "Bosquejan posibles decisiones que pueden tomar en el presente para facilitar el desarrollo de sus habilidades e intereses.",
+          "Distinguen factores que pueden facilitar o dificultar el logro de distintas opciones laborales o académicas."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 10",
+        "descripcion_oa": "Diseñar aspectos de sus posibles proyectos de vida considerando elementos como habilidades, motivaciones, metas personales, posibilidades y limitaciones, asumiendo el desafío de tomar decisiones coherentes con estos elementos y actuando, basándose en ellos, de manera perseverante y esforzada.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Identifican decisiones que pueden tomar para contribuir a su proyecto de vida.",
+          "Establecen metas vinculadas a su proyecto de vida considerando sus propias motivaciones.",
+          "Delinean esfuerzos personales que facilitarían la consecución de sus metas.",
+          "Plantean metas de desarrollo personal o académico que contribuyen a la construcción de su proyecto de vida.",
+          "Evalúan sus posibilidades y limitaciones para la consecución de sus metas.",
+          "Reconocen la importancia del esfuerzo y perseverancia para el logro de sus metas personales."
+        ]
+      }
+    ]
+  },
+  {
+    "curso": "II Medio",
+    "asignatura": "Orientación",
+    "objetivos": [
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 1",
+        "descripcion_oa": "Comparar distintas alternativas posibles de sus proyectos de vida, en los ámbitos laboral, familiar u otros, considerando sus intereses, condiciones, capacidades y la manera en que las propias decisiones y experiencias pueden influir en que estas alternativas se hagan realidad.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Jerarquizan sus intereses y motivaciones para tomar decisiones sobre sus propias vidas.",
+          "Distinguen de qué manera los propios intereses y motivaciones para su futuro se diferencian o convergen con estereotipos o expectativas de otros.",
+          "Describen maneras de utilizar las oportunidades y redes de apoyo que pueden encontrar para concretar su proyecto de vida.",
+          "Identifican de qué maneras los posibles cambios o giros en un proyecto de vida pueden implicar oportunidades y amenazas para el desarrollo de los propios intereses y motivaciones.",
+          "Proyectan rutas o planes alternativos que podrían seguir en caso de no poder llevar a cabo aquellos que consideran como su primera opción."
+        ]
+      },
+      {
+        "eje_curricular": "Crecimiento personal",
+        "num_oa": "OA 2",
+        "descripcion_oa": "Analizar de manera fundamentada temáticas y situaciones relacionadas con la sexualidad y los vínculos afectivos, en función de valores como el respeto hacia todo ser humano, la responsabilidad y el cuidado de sí mismos y de los demás, considerando el resguardo de la salud, la intimidad, la integridad física y emocional.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Distinguen diversas formas de establecer relaciones de pareja e intimidad, en función de la integridad y el bienestar propio y de las personas.",
+          "Determinan la importancia del respeto por su propia intimidad, su bienestar físico y emocional en el contexto de la sexualidad (orientación e identidad) y vínculos afectivos.",
+          "Explican temáticas asociadas a la sexualidad y a los vínculos afectivos en función de la integridad y el bienestar de todo ser humano.",
+          "Promueven estrategias para afrontar diversas problemáticas asociadas a la sexualidad y los vínculos afectivos que se presentan en el contexto social."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 3",
+        "descripcion_oa": "Evaluar, en sí mismos y en su entorno, situaciones problemáticas y/o de riesgos relacionadas con el consumo de sustancias, conductas sexuales riesgosas y la violencia, entre otros, e identificar y recurrir a redes de apoyo a las que pueden pedir ayuda, como familia, profesores, instituciones de salud, centros comunitarios y fonos y páginas web especializadas, entre otras.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Identifican en sí mismos(as) y en su entorno situaciones problemáticas asociadas al consumo de sustancias nocivas para la salud, conductas sexuales riesgosas, violencia, entre otras.",
+          "Discriminan situaciones a las que se pueden ver expuestos en función del riesgo asociado a estas.",
+          "Explican las consecuencias que puede tener para una persona la exposición a situaciones de riesgo.",
+          "Generan estrategias de resolución de problemas asociados al consumo de sustancias, conductas sexuales de riesgo, violencia, entre otros.",
+          "Diseñan mecanismos de difusión de las instancias de apoyo con que cuentan en su comunidad, considerando la pertinencia de estas ante situaciones de riesgo."
+        ]
+      },
+      {
+        "eje_curricular": "Bienestar y autocuidado",
+        "num_oa": "OA 4",
+        "descripcion_oa": "Promover y llevar a cabo de manera autónoma acciones que favorezcan la vida saludable a nivel personal y social, manifestando interés y preocupación ante problemas y situaciones de su entorno y de sus vidas (cuidado de la alimentación, manejo adecuado del estrés, uso positivo del tiempo de ocio, prevención de riesgos y seguridad personal en situaciones cotidianas, entre otros).",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Participan en el diseño e implementación de prácticas para promover la vida saludable a nivel personal y social.",
+          "Evalúan iniciativas para promover la vida saludable, desarrolladas en el establecimiento o en su entorno local, considerando la contribución que estas han generado para ellos(as) mismos(as) y su entorno.",
+          "Discriminan las ventajas y los beneficios potenciales de promover una vida saludable para ellos(as) mismos(as) y quienes les rodean.",
+          "Proponen maneras de enfrentar las dificultades para ejecutar y sostener en el tiempo prácticas que favorecen un estilo de vida saludable."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 5",
+        "descripcion_oa": "Promover en su entorno relaciones interpersonales constructivas, sean estas presenciales o por medio de las redes sociales, sobre la base del análisis de situaciones, considerando los derechos de las personas acorde a los principios de igualdad, dignidad, inclusión y no discriminación.",
+        "nivel_bloom": "Aplicar",
+        "indicadores": [
+          "Colaboran en la promoción de formas de relación y convivencia cotidianas que favorezcan el respeto por la dignidad, la equidad, la no discriminación e inclusión.",
+          "Evalúan normas y prácticas de las relaciones interpersonales de su entorno en función de su coherencia con los principios de igualdad, dignidad, inclusión y no discriminación.",
+          "Utilizan diferentes mecanismos para mantener interacciones que pueden favorecer el bienestar, la dignidad y/o sus propios derechos y los de sus compañeros y compañeras.",
+          "Proponen estrategias para facilitar que las interacciones cotidianas en las que participan promuevan el bienestar y el respeto de los derechos de todos quienes estén involucrados.",
+          "Establecen formas de utilizar los medios de comunicación masiva y redes sociales, salvaguardando el bienestar y la dignidad de las personas."
+        ]
+      },
+      {
+        "eje_curricular": "Relaciones interpersonales",
+        "num_oa": "OA 6",
+        "descripcion_oa": "Discriminar alternativas para la resolución de conflictos en un marco de derechos, que promuevan la búsqueda de acuerdos que beneficien a las partes involucradas y que impliquen el compromiso recíproco.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Reconocen cómo, en situaciones de conflicto, sus propios intereses se pueden contraponer con los intereses de otros.",
+          "Discriminan entre modos de solucionar conflictos que resguardan los derechos de los involucrados, de aquellos que no lo hacen.",
+          "Evalúan la resolución de conflictos en términos de la proporcionalidad lograda entre concesiones y beneficios para ambas partes.",
+          "Evalúan la manera en que el incumplimiento unilateral o recíproco de los compromisos afectaría la resolución efectiva de los conflictos e identifican potenciales dificultades al respecto.",
+          "Proponen estrategias para superar las dificultades que pueden tener al momento de dar cumplimiento a los compromisos adoptados para solucionar conflictos.",
+          "Determinan la importancia que tiene el proceso de negociación y los argumentos escuchados, para llegar a un acuerdo en común ante una situación de conflicto."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 7",
+        "descripcion_oa": "Evaluar en su entorno social e institucional cercano, como curso, establecimiento, barrio u otro, instancias en las que puedan participar o contribuir a la resolución de problemáticas a partir del reconocimiento de sí mismos y de los demás como sujetos de derecho, considerando aspectos como el respeto por la dignidad, la diversidad, la equidad de género, la inclusión, la participación democrática, la justicia y el bienestar.",
+        "nivel_bloom": "Evaluar",
+        "indicadores": [
+          "Analizan la manera en que determinadas condiciones de su entorno próximo resultan coherentes o se distancian de principios tales como el respeto por la dignidad, la inclusión, el bien común, la justicia y la democracia.",
+          "Identifican las situaciones en que pueden contribuir individual y colectivamente a la resolución de problemáticas de su entorno, basándose en un enfoque de derecho.",
+          "Discriminan propósitos efectivamente logrados de aquellos por lograr como resultado de las decisiones tomadas en instancias de participación en el curso, establecimiento o barrio.",
+          "Discriminan entre aspectos que se ajustan y otros que se distancian de la convivencia democrática en los espacios de toma de decisiones a nivel del curso, la escuela y el barrio.",
+          "Categorizan las situaciones que pueden ser atendidas por las instancias de participación colectiva de su entorno, en función de su relevancia para favorecer el respeto por la dignidad, la diversidad, el bien común, la justicia y la inclusión."
+        ]
+      },
+      {
+        "eje_curricular": "Pertenencia y participación democrática",
+        "num_oa": "OA 8",
+        "descripcion_oa": "Desarrollar iniciativas orientadas a promover el respeto, la justicia, el buen trato, las relaciones pacíficas y el bien común en el propio curso y la comunidad escolar, participando en instancias colectivas, como el Consejo de Curso, órganos de representación estudiantil u otros, de manera colaborativa y democrática, mediante el diálogo y el debate respetuoso ante la diversidad de opiniones.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Planifican acciones orientadas a promover el bien común, el buen trato, el respeto, la justicia y las relaciones pacíficas, estableciendo objetivos y acciones para lograrlos.",
+          "Contribuyen en instancias de participación dentro del curso o de la comunidad escolar, debatiendo sobre acciones para desarrollar mejoras, a través del diálogo, la argumentación y respetando la diversidad de opiniones.",
+          "Participan activamente en la toma de decisiones en su curso, resolviendo diferencias de manera democrática.",
+          "Llevan a cabo las tareas o acciones acordadas con el curso, buscando soluciones ante los problemas que pueden surgir en el desarrollo de estas.",
+          "Evalúan el desarrollo de las iniciativas llevadas a cabo identificando los logros alcanzados y los aspectos por lograr."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 9",
+        "descripcion_oa": "Contrastar diversos posibles caminos a seguir en el desarrollo de sus proyectos de vida, tomando en cuenta distintas opciones laborales y académicas y reconociendo sus habilidades e intereses.",
+        "nivel_bloom": "Analizar",
+        "indicadores": [
+          "Jerarquizan caminos posibles para desarrollar sus habilidades e intereses en diversos contextos laborales y académicos.",
+          "Identifican caminos alternativos para lograr sus metas frente a posibles obstáculos que dificulten el logro de estas.",
+          "Analizan alternativas de preparación personal en el ámbito vocacional que faciliten el logro de sus aspiraciones laborales o académicas.",
+          "Clarifican decisiones actuales que facilitan el desarrollo de sus habilidades e intereses."
+        ]
+      },
+      {
+        "eje_curricular": "Gestión y proyección del aprendizaje",
+        "num_oa": "OA 10",
+        "descripcion_oa": "Diseñar aspectos de sus posibles proyectos de vida considerando elementos como habilidades, motivaciones, metas personales, posibilidades y limitaciones, asumiendo el desafío de tomar decisiones coherentes con estos elementos y actuando, basándose en ellos, de manera perseverante y esforzada.",
+        "nivel_bloom": "Crear",
+        "indicadores": [
+          "Reconocen aspectos de su identidad que se proyectan en un futuro en opciones académicas o laborales.",
+          "Analizan elementos del entorno que ejercen influencia sobre sus metas laborales y académicas a futuro (influencia de contexto familiar, escolar u otros).",
+          "Identifican motivaciones, intereses y habilidades propios por considerar para construir posibles caminos de proyección laboral.",
+          "Determinan los esfuerzos personales por desarrollar que son necesarios para la consecución de sus metas.",
+          "Elaboran un plan de desarrollo personal y académico que consolidaría la consecución de sus metas."
+        ]
+      }
+    ]
+  }
+]

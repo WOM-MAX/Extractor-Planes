@@ -3,6 +3,7 @@ import time
 import json
 import logging
 import shutil
+import uuid
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
 from google import genai
@@ -39,7 +40,7 @@ class ObjetivoExtraccion(BaseModel):
 
 class CursoExtraccion(BaseModel):
     curso: str = Field(description="Curso o nivel correspondiente al plan (ej: 1° Básico, I Medio)")
-    asignatura: str = Field(description="Fijo en 'Matemática'")
+    asignatura: str = Field(description="Nombre de la asignatura del documento")
     objetivos: List[ObjetivoExtraccion] = Field(description="Lista de Objetivos de Aprendizaje extraídos")
 
 def upload_to_gemini(path: str) -> Optional[Any]:
@@ -52,8 +53,8 @@ def upload_to_gemini(path: str) -> Optional[Any]:
         logger.error("Cliente de Gemini no inicializado. Configure su GEMINI_API_KEY.")
         return None
         
-    # Ruta temporal en la raíz del proyecto para evitar errores de codificación de caracteres no-ASCII
-    temp_path = "temp_gemini_upload.pdf"
+    # Ruta temporal ÚNICA por hilo para evitar conflictos de concurrencia
+    temp_path = f"temp_gemini_upload_{uuid.uuid4().hex[:8]}.pdf"
     logger.info(f"Copiando temporalmente {path} a {temp_path} para evitar problemas de codificación de caracteres en Windows...")
     
     try:
@@ -102,9 +103,9 @@ def cleanup_gemini_file(file_name: str):
     except Exception as e:
         logger.warning(f"No se pudo eliminar el archivo temporal {file_name}: {str(e)}")
 
-def extract_pdf_data(pdf_path: str) -> Optional[Dict[str, Any]]:
+def extract_pdf_data(pdf_path: str, asignatura: str = "Matemática") -> Optional[Dict[str, Any]]:
     """
-    Extrae la información curricular de un PDF local usando Gemini 1.5 Flash (SDK moderno)
+    Extrae la información curricular de un PDF local usando Gemini 2.5 Flash (SDK moderno)
     y devuelve la estructura en formato JSON según el esquema CursoExtraccion.
     """
     if not client:
@@ -132,14 +133,14 @@ def extract_pdf_data(pdf_path: str) -> Optional[Dict[str, Any]]:
             "de Bloom: 'Recordar', 'Comprender', 'Aplicar', 'Analizar', 'Evaluar' o 'Crear'."
         )
         
-        # Prompt de usuario
+        # Prompt de usuario (dinámico según asignatura)
         prompt = (
-            "Analiza el PDF adjunto y extrae todos los Objetivos de Aprendizaje (OA) con sus respectivos "
+            f"Analiza el PDF adjunto de la asignatura '{asignatura}' y extrae todos los Objetivos de Aprendizaje (OA) con sus respectivos "
             "ejes curriculares, descripciones, nivel en la taxonomía de Bloom e indicadores de evaluación sugeridos. "
             "Instrucciones específicas:\n"
             "1. Determina con precisión el Curso del documento (ej: '1° Básico', '8° Básico', 'I Medio', 'II Medio').\n"
-            "2. Asignatura siempre es 'Matemática'.\n"
-            "3. Eje Curricular: Identifica el eje curricular (ej: 'Números y operaciones', 'Patrones y álgebra', 'Geometría', 'Medición', 'Datos y probabilidades', 'Álgebra y funciones', etc.).\n"
+            f"2. La asignatura es '{asignatura}'.\n"
+            "3. Eje Curricular: Identifica el eje o ámbito curricular al que pertenece cada OA según el documento.\n"
             "4. num_oa: Debe ser 'OA X' donde X es el número del objetivo (ej: 'OA 1', 'OA 12').\n"
             "5. descripcion_oa: El texto exacto y completo del Objetivo de Aprendizaje.\n"
             "6. nivel_bloom: Analiza detenidamente el verbo cognitivo dominante del OA y clasifícalo en uno de los 6 niveles: Recordar, Comprender, Aplicar, Analizar, Evaluar, Crear.\n"
