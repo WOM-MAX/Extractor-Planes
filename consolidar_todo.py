@@ -41,10 +41,10 @@ def normalizar_asignatura(nombre: str) -> str:
             return "Educación Física y Salud"
     if "Artes" in n:
         return "Artes Visuales"
-    if "Ciencias" in n:
-        return "Ciencias Naturales"
     if "Historia" in n:
         return "Historia, Geografía y Ciencias Sociales"
+    if "Ciencias" in n:
+        return "Ciencias Naturales"
     if "Lenguaje" in n:
         return "Lenguaje"
     return n
@@ -147,8 +147,16 @@ def consolidar():
     # 2. Generar el DataFrame y ordenar lógicamente
     df = pd.DataFrame(lista_objetivos_flatten)
     
+    # Construir la lista completa de categorías preservando el ORDEN_CURSOS al principio,
+    # y añadiendo dinámicamente al final cualquier curso que exista pero no esté en la lista predefinida.
+    cursos_unicos = df['Curso'].unique()
+    categorias_completas = list(ORDEN_CURSOS)
+    for c in cursos_unicos:
+        if pd.notna(c) and c not in categorias_completas:
+            categorias_completas.append(c)
+            
     # Configurar el tipo categórico ordenado para los Cursos
-    df['Curso'] = pd.Categorical(df['Curso'], categories=ORDEN_CURSOS, ordered=True)
+    df['Curso'] = pd.Categorical(df['Curso'], categories=categorias_completas, ordered=True)
     
     # Agregar columna temporal para orden numérico de OA
     df['_OA_num'] = df['N° de OA'].apply(extraer_numero_oa)
@@ -168,8 +176,8 @@ def consolidar():
         # Contar OAs por Asignatura (filas) y Curso (columnas)
         df_resumen = pd.crosstab(df['Asignatura'], df['Curso'], margins=True, margins_name='Total General')
         
-        # Reordenar las columnas del resumen para seguir el orden lógico más el Total General
-        columnas_resumen = [c for c in ORDEN_CURSOS if c in df_resumen.columns] + ['Total General']
+        # Reordenar las columnas del resumen para seguir el orden lógico completo más el Total General
+        columnas_resumen = [c for c in categorias_completas if c in df_resumen.columns] + ['Total General']
         df_resumen = df_resumen[columnas_resumen]
         df_resumen.to_excel(writer, sheet_name='Resumen y Métricas')
         
