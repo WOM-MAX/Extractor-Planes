@@ -31,13 +31,15 @@ Se desarrolló un script modular e independiente en la raíz del proyecto que re
 - **Pestaña `Resumen y Métricas`**:
   - Contiene una matriz cruzada dinámica (crosstab) estática que grafica la cantidad exacta de Objetivos de Aprendizaje por cada combinación de curso y asignatura, incluyendo sumatorias totales horizontales y verticales.
 
-## Verificación de Datos
+## Verificación de Datos y Correcciones Realizadas
 
 - **Total Registros planos cargados:** 1,522 OAs.
+- **Resolución de NaN en Cursos (Música y otros):** Se detectó que los cursos electivos con nombres largos de 3° y 4° Medio (ej: *Creación y composición musical*, *Educación física y salud 1*, etc.) se convertían en `NaN` en Excel debido a categorías categóricas rígidas de Pandas. Se implementó una lógica de extensión dinámica en `consolidar_todo.py` que detecta y añade los cursos no estándar de forma automática al final del listado, logrando **0 registros nulos (NaN)** en todo el archivo.
+- **Corrección de Clasificación de Historia:** Se corrigió un bug en la normalización de asignaturas en el cual los planes de *Historia, Geografía y Ciencias Sociales* se clasificaban erróneamente como *Ciencias Naturales* debido a la coincidencia de la palabra `"Ciencias"`. Se priorizó la comprobación de `"Historia"` antes que `"Ciencias"` logrando la asignación impecable de los **228 OAs** correspondientes.
 - **Comprobación de Codificaciones:** Todos los caracteres con tildes (Inglés, Matemática, Música, Tecnología, Orientación, Educación Física) se visualizaron de forma correcta sin corrupciones de codificación.
 - **Validación del Excel:** Se abrieron las hojas y se verificó que los filtros, inmovilización de paneles y ordenamientos operan nativamente de forma exitosa.
 
 ## Control de Cambios en Git
-- **Commit Hash:** `4fd17ef`
-- **Mensaje:** *Consolidación total completada: Agrega script consolidar_todo.py, y bases de datos consolidadas maestro (.xlsx y .json) de las 10 asignaturas chilenas*
+- **Commit Hash:** `8744412` (Fix definitivo)
+- **Mensaje:** *Fix consolidacion: Resuelve NaN en Curso para electivos de 3 y 4 Medio, corrige clasificacion de Historia que colisionaba con Ciencias en la normalizacion, y regenera base master completa*
 - **Estado del Repositorio:** Sincronizado en GitHub en la rama principal (`main`).

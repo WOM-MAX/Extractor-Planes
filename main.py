@@ -18,13 +18,17 @@ load_dotenv()
 
 # --- CONFIGURACIÓN PRINCIPAL ---
 ASIGNATURAS = [
+    "ARTES VISUALES",
+    "CIENCIAS NATURALES",
     "EDUCACIÓN FÍSICA Y SALUD",
+    "HISTORIA, GEOGRAFÍA Y CIENCIAS SOCIALES",
     "INGLÉS",
+    "LENGUAJE",
+    "MATEMÁTICA",
     "MÚSICA",
     "ORIENTACIÓN",
     "TECNOLOGÍA"
 ]
-# Nota: Artes Visuales ya se completó en la última ejecución exitosa, así que la excluimos.
 # -------------------------------
 
 # Directorios y rutas
@@ -149,7 +153,13 @@ def consolidar_resultados(asignatura: str) -> bool:
             "3 Y 4 Medio", "III y IV Medio"
         ]
         
-        df['Curso'] = pd.Categorical(df['Curso'], categories=orden_cursos, ordered=True)
+        cursos_unicos = df['Curso'].unique()
+        categorias_completas = list(orden_cursos)
+        for c in cursos_unicos:
+            if pd.notna(c) and c not in categorias_completas:
+                categorias_completas.append(c)
+                
+        df['Curso'] = pd.Categorical(df['Curso'], categories=categorias_completas, ordered=True)
         
         import re
         def extraer_numero_oa(oa_str):
